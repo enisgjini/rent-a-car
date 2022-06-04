@@ -262,9 +262,7 @@ error_reporting(0);
             foreach ($results as $result) {  ?>
 
 
-              <section class="p-4 p-md-5 text-center text-lg-start" style="
-    background-image: url(https://mdbcdn.b-cdn.net/img/Photos/Others/background2.webp);
-  ">
+              <section class="p-4 p-md-5 text-center text-lg-start">
                 <div class="row d-flex justify-content-center">
                   <div class="col-md-10">
                     <div class="card">

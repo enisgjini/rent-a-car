@@ -89,12 +89,7 @@ if (strlen($_SESSION['login']) == 0) {
     <link rel="stylesheet" href="assets/css/style.css">
   </head>
 
-  <body>
-
-    <!-- Start Switcher -->
-    <?php include('includes/colorswitcher.php'); ?>
-    <!-- /Switcher -->
-
+  <body class="bg-light">
     <!--Header-->
     <?php include('includes/header.php'); ?>
     <!-- /Header -->
@@ -106,7 +101,7 @@ if (strlen($_SESSION['login']) == 0) {
             <li class="breadcrumb-item"><a href="#">Ballina</a></li>
             <li class="breadcrumb-item active" aria-current="page">Cilësimet e profilit</li>
           </ol>
-          
+
         </nav>
       </section>
     </div>

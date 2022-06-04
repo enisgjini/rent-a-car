@@ -37,9 +37,9 @@
         <li class="nav-item"><a class="nav-link" href="contact-us.php">Kontaktoni</a></li>
         
       </ul>
-      <ul class="navbar-nav me-auto">
+      <!-- <ul class="navbar-nav me-auto">
         <a class="navbar-brand" href="#"><img src="https://i.ibb.co/q5YL7Br/pngwing-com.png" width="140px" height="40px" style="object-fit: scale-down;" alt=""></a>
-      </ul>
+      </ul> -->
       <form class="d-flex" role="search">
         <?php if (strlen($_SESSION['login']) == 0) {
         ?>

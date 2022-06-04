@@ -67,7 +67,7 @@ if (isset($_POST['submit'])) {
 
   <link rel="stylesheet" href="assets/css/style.css">
 
-<body>
+<body class="bg-light">
 
 
   <!--Header-->
