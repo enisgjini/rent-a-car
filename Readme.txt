@@ -1,21 +1,43 @@
-How to run Project
-1. Download and Unzip the file on your local system copy carrental .
-2. Put carrental folder inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+# Rent a car 
 
-Database Configuration
+This project is designed to be used by car rental companies in which I have car rentals for people. This web application is an online system through all possible persons of:
 
-Open phpmyadmin
-Create Database carrental
-Import database carrental.sql (available SQL File Folder inside zip package)
+• look at available cars, brands
 
-For User
-Open Your browser put inside browser “http://localhost/carrental”
-Login Details for user:
-Username : test@gmail.com
-Password: Test@123
+• to register,
 
-For Admin Panel
-Open Your browser put inside browser “http://localhost/carrental/admin”
-Login Details for admin :
-Username: admin
-Password: Test@12345
+• view profile and
+
+• book the car. 
+
+
+
+## Installation ( Instalimi )
+
+Install rent-a-car with git
+
+Clone the project
+```bash
+    git clone https://github.com/enisgjini/rent-a-car.git
+```
+Go to the project directory
+```bash
+    cd rent-a-car
+```
+Open Visual Studio Code
+```bash
+    code .
+```
+## Contributing ( Kontribut )
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please ad here to this project's `code of conduct`.
+
+
+## License ( Liçensë )
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
